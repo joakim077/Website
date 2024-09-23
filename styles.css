@@ -9,14 +9,12 @@ body {
 }
 
 header {
-    background: #aac1df;
+    background: #9abeec;
     color: #ffffff;
     padding: 2rem 0;
     text-align: center;
     font-size: larger;
     font-weight: bold;
-
-    position: fixed;
     top: 0;
     width: 100%
 }
